@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #333;
+  --primary-color-light: #555;
+  --primary-color-lightest: #777;
+
+  --primary-bg: #fce6db;
+
+  --secondary-color-dark: #574046;
+  --secondary-color: #916b74;
+  --secondary-color-light: #b2979e;
+
+  --tertiary-color: #f7c0a4;
+  --tertiary-color-light: #fef9f6;
+
+  --action-color: #d3e0ea;
+  --action-hover: #becad3;
+
+  --border-radius: 8px;
+
+  --main-text-sz: 1.8rem;
+}
